@@ -1,0 +1,16 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri":"mysql+pymysql://root:@localhost/blog",
+        "prod_uri": "sqlite:///blog.db",
+        "admin_user": "rishav",
+        "admin_password": "rishav",
+        "upload_location":"C:\\Users\\user1\\PycharmProjects\\blog\\static",
+        "blog_name": "coding blog",
+        "tag_line": "blog for programmers",
+        "no_of_posts":2
+
+
+
+    }
+}
